@@ -27,14 +27,15 @@ Jesse was preparing for a trip to their family but something went terribly wrong
 
 ### tile pass conditions
 
+| Tile Type  | Condition     |
 | ---------- | ------------- |
-| Rusty Axe | yes |
-| Start Area | yes |
-| Mountain | when ate food |
-| Water | with boat |
-| Tree | yes |
-| Shrubbery | no |
-| Food | yes |
+| Rusty Axe  | yes           |
+| Start Area | yes           |
+| Mountain   | when ate food |
+| Water      | with boat     |
+| Tree       | yes           |
+| Shrubbery  | no            |
+| Food       | yes           |
 
 ## Additional info
 
