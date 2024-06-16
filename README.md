@@ -22,7 +22,7 @@ Jesse was preparing for a trip to their family but something went terribly wrong
 
 ## Map
 
-![map](docs/map.png)
+![map](docs/map.png)<br/>
 *\*Food position is picked at random upon loading the game. The other food tiles will turn to grass & be surrounded by grass. The Picked food tile will be surrounded by water.*
 
 ### tile pass conditions
