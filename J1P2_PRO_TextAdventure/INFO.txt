@@ -1,0 +1,40 @@
+﻿Minimale Eisen:
+	- PEGI 12.																	(violence in a fantacy enviroment and unrealstic violence toards human-like caracters)
+	- Correcte naamgeving variabelen methods & classes.
+	- Geen onnodige herhaling van code!
+
+	V Beschrijvende comments bij je code.
+	V Random event/willekeurige gebeurtenis in je spel.
+	V Cover art gemaakt
+	V Er is een Potoo verwerkt in het spel.
+	V Externe bestanden gebruikt voor ASCII art.
+	V Geen goto!
+
+Technische eisen:
+	V Loop (foreach, for, while & do while)
+	V Collection (list & array)
+	V Conditional statements (switch statement & if, else if, else)
+	V Method met return type
+	V Method met parameters
+	V Classes (OOP)
+		
+	Optionele technische eisen:
+		X ASCII art animatie.
+		X Collection(dictonary)
+		V Correcte Access Modifiers
+		V Class constructors
+
+- = keep in mind
+? = ask about this
+O = to do
+X = won't do
+V = done
+
+
+TODO: (sorted by priority, only skip one item, if skipped you may skip again if you finished the inital skip)
+	O make class & activity diagram
+	O update walkthrough
+	O make go messages appear like look messages or the other way arround
+	O add summaries to classes & constructors
+	? look into using static for utility classes?
+	X Make World & Player in the command constructor in the command class
