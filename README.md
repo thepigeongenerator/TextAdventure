@@ -13,8 +13,8 @@ Jesse was preparing for a trip to their family but something went terribly wrong
 | Command | Argument                      | Action                                                                                                         |
 | ------- | ----------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | `eat`   |                               | Looks if you have taken the food or are located at a food tile and eats it.                                    |
-| `go`    | `north` `east` `south` `west` | Tries to navigate in a curtain direction, this can trigger special actions.                                    |
-| `help`  |                               | Gives help for your current context. e.g. when you have an axe you’re told what the use command does.          |
+| `go`    | `north` `east` `south` `west` | Tries to navigate in a certain direction, this can trigger special actions.                                    |
+| `help`  |                               | Gives help for your current context; e.g. when you have an axe you’re told what the use command does.          |
 | `look`  |                               | Tells you what type the north, east, south, west tiles are                                                     |
 | `make`  | `boat`                        | If you have 4 wood then you make a boat so you can cross water tiles.                                          |
 | `take`  |                               | If you are on an axe or food tile you take the item.                                                           |
